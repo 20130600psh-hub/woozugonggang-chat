@@ -1,3 +1,3 @@
 # woozugonggang-chat
 
-http://0.0.0.0:5500/
+https://psychic-funicular-775x44x69ppjhrq5q-5500.app.github.dev/
